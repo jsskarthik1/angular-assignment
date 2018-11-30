@@ -10,6 +10,6 @@
  - Angular service should never file more than songle HTTP Request at a time. All the stories should be fetched one after another.
  - Design need not to be exactly as same as above. It's upto your creativity.
  - Must use Angular 2 or above.
- - Send the merge request to the master branch once you are done.
+ - Send the merge request to the master branch once you are done (Zip the source code and email otherwise).
  - Plus point if you host it yourself in heroku or any other manages services.
  - **Please don't copy paste any code from github.**
