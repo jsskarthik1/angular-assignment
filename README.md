@@ -2,7 +2,7 @@
 
 ### Goal
  Consume the [hackerNews API](https://github.com/HackerNews/API) to list down the **Top stories**  which should look something like below screenshot
-![Sample Screen](https://i.ibb.co/QdnRLsm/Screenshot-2018-11-30-at-5-30-26-PM.png)
+<img src="https://i.ibb.co/QdnRLsm/Screenshot-2018-11-30-at-5-30-26-PM.png" width="200">
 
 
 ### Conditions
